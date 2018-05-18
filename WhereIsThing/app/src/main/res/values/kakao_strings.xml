@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //카카오 api를 위한 네이티브 키 값
+    <string name = "kakao_app_key">095bed27e2da4a43b48f7a1ac354bfa3</string>
+
+</resources>
